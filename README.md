@@ -28,6 +28,14 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langsa598-prog&layout=compact&theme=tokyonight)
+
+---
+
+
 ## 📫 Contact
 
 <a href="mailto:kireii30@gachon.ac.kr">
