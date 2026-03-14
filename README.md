@@ -1,3 +1,10 @@
+## 👋 About Me
+
+Interested in **AI, LLMs, and AI Agents**
+Exploring **practical AI systems and intelligent automation**
+
+---
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -11,7 +18,7 @@
 ## 📚 Studying
 
 ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
-![AI%20Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-8A2BE2?style=for-the-badge)
@@ -20,24 +27,23 @@
 
 ## ⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<a href="https://github.com/langsa598-prog">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langsa598-prog)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
-
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langsa598-prog&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=langsa598-prog\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langsa598-prog\&layout=compact)
 
 ---
-
 
 ## 📫 Contact
 
 <a href="mailto:kireii30@gachon.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mail_To-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
