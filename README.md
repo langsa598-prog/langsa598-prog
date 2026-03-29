@@ -4,7 +4,7 @@ Senior in Computer Science at Gachon University.
 Interested in **AI**, **LLMs**, **AI Agents**, and **NLP**.
 
 - AI Intern at iNES Lab (Gachon University)
-- KANANA 429 AI Ambassador
+- Kakao AI Ambassador (2026-03 ~ 2026-08)
 
 ---
 
